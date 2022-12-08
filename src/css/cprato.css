@@ -1,0 +1,35 @@
+.formulario{
+    width: 500px;
+}
+
+.details-form{
+    text-align: left !important;
+    font-size: 2.5rem;
+}
+
+.form-group{
+    text-align: left !important;
+}
+
+.btn-primary{
+    width: 20rem !important;
+    height: 5rem !important;
+    font-size: 2rem !important;
+    margin-top: 2rem !important;
+}
+
+
+input{
+    height: 40px !important;
+}
+
+.select-forms{
+    height: 40px !important;
+}
+
+.formulario-default{
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid lightgrey;
+    height: 5rem !important;
+}

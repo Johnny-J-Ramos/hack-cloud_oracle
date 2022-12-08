@@ -1,0 +1,58 @@
+.formulario{
+    width: 500px;
+}
+
+.details-form{
+    text-align: left !important;
+    font-size: 2.5rem;
+}
+
+.form-group{
+    text-align: left !important;
+}
+
+.btn-danger-pedido{
+    width: 100% !important;
+    height: 100% !important;
+    font-size: 2rem !important;
+    margin-top: 2rem !important;
+}
+
+.card-text{
+font-size: 1.2rem;
+}
+
+.details-card{
+    text-align: left;
+}
+
+input{
+    height: 40px !important;
+}
+
+.formulario-default{
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid lightgrey;
+    height: 5rem !important;
+}
+
+.tile-card{
+    font-size: 2.25rem;
+}
+
+.details-card-restaurant{
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+    padding: 1.1px;
+}
+
+.price{
+    font-size: 2.25rem;
+    padding-top: 10px;
+}
+
+.card-image{
+    width: 100%;
+    height: 200px;
+}
